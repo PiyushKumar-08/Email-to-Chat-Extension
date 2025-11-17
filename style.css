@@ -1,0 +1,53 @@
+.email-chat-view-container {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  background: #ece5dd url("https://i.ibb.co/QY1fMbT/whatsapp-bg.png") repeat;
+  font-family: "Segoe UI", sans-serif;
+}
+
+.ecv-header {
+  background: #075e54;
+  color: white;
+  padding: 12px;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.ecv-messages {
+  flex: 1;
+  padding: 10px;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+}
+
+.ecv-message-bubble {
+  max-width: 60%;
+  padding: 8px 12px;
+  border-radius: 8px;
+  margin: 6px 0;
+  position: relative;
+  font-size: 14px;
+  line-height: 1.4;
+  word-wrap: break-word;
+}
+
+.ecv-message-bubble.sent {
+  align-self: flex-end;
+  background: #dcf8c6;
+  border-bottom-right-radius: 0;
+}
+
+.ecv-message-bubble.received {
+  align-self: flex-start;
+  background: #fff;
+  border-bottom-left-radius: 0;
+}
+
+.ecv-timestamp {
+  font-size: 11px;
+  color: gray;
+  text-align: right;
+  margin-top: 4px;
+}
