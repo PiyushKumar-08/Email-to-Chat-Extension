@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://private-user-images.githubusercontent.com/113303813/515333904-8ae79444-fe14-4c1a-b0d5-500d6e0ae51e.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjM0MDQzOTYsIm5iZiI6MTc2MzQwNDA5NiwicGF0aCI6Ii8xMTMzMDM4MTMvNTE1MzMzOTA0LThhZTc5NDQ0LWZlMTQtNGMxYS1iMGQ1LTUwMGQ2ZTBhZTUxZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMTE3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTExN1QxODI4MTZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02NGFmZjA2ZmIxZTBlNjIzMGQxNTU1MTU2ZTMyZDMyZWU1MmE3MjM4MzdlYWU4MTdjMTY3ODA1MDJhZDM0OTAzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.F6GYTOHGWb9ewuzLT-9Vymp9uix8TDSevLh-bEx6N0I" alt="Email to Chat Extension Demo" width="600"/>
+  <img src="Screenshot 2025-09-05 162928.png" alt="Email to Chat Extension Demo" width="600"/>
 </p>
 
 ## 📖 About The Project
@@ -54,5 +54,6 @@ Want to try it out or contribute?
 5.  **You're all set!** Open an email thread to see it in action.
 
 ## 👤 Contact
+
 
 Piyush Kumar - [@PiyushKumar-08](https://github.com/PiyushKumar-08)
